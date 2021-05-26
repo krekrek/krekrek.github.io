@@ -1,5 +1,5 @@
 # Site settings
-title: Daktilo
+title: 김동욱
 description: >
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,9 +9,9 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://r3vk1m.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Motaquillah Maddane
+  fullname: k1m
   googleplus: https://www.google.com/+MotaquillahMaddane
-  github: kronik3r
+  github: r3vk1m
   twitter: electrik_frog
   # disqus: your_disqus_forum_shortname
 
