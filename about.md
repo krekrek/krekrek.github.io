@@ -5,7 +5,7 @@ subtitle: Just who the hell you think I am?
 permalink: /about/
 ---
 
-<p text-align: center;>
+<p align="center">
 이름 : 김동욱   
 활동명 : kr3v   
 소속 : 세명컴퓨터고등학교   
