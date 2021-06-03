@@ -5,7 +5,7 @@ subtitle: Just who the hell you think I am?
 permalink: /about/
 ---
 
-이름 : 김동욱
+이름 : 김동욱<br>
 활동명 : kr3v
 소속 : 세명컴퓨터고등학교
 팀 : 세명컴고 해킹동아리 SCA
