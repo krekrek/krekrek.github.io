@@ -5,7 +5,14 @@ subtitle: Just who the hell you think I am?
 permalink: /about/
 ---
 
-안녕하세요.
-김동욱입니다.
-보안에 관심이 많은 평범한 고등학생입니다.
-리버스엔지니어링과 포너블을 공부하고 있습니다.
+## Contact
+  * Name : 김동욱
+  * Nickname : kr3v
+  * School : 세명컴퓨터고등학교
+  * Team : TeamSCA
+  * Email：krekrek@naver.com
+  * Github : [r3vk1m] (https://github.com/r3vk1m)
+  * nickname : me2nuk
+* * *
+
+리버스 엔지니어링과 시스템 해킹을 공부하고 있는 평범하고 보잘것 없는 고등학생입니다..
