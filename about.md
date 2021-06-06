@@ -1,11 +1,11 @@
 ---
 layout: page
 title: About
-subtitle: Just who the hell you think I am?
+subtitle: Who am I?
 permalink: /about/
 ---
 
-## Contact
+## About me
   * Name : 김동욱
   * Nickname : kr3v
   * School : 세명컴퓨터고등학교
