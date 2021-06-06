@@ -1,8 +1,8 @@
-- slug: design
-  name: Design
+- slug: Reversing
+  name: Reversing
 
-- slug: tools
-  name: Tools
+- slug: Malware Analysis
+  name: Malware Analysis
 
-- slug: productivity
-  name: Productivity
+- slug: Pwnable
+  name: Pwnable
