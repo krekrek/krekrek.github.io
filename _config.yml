@@ -6,12 +6,12 @@ description: >
   Google search results) and in your feed.xml site description.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://r3vk1m.github.io" # the base hostname & protocol for your site
+url: "http://krekrek.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: k1m
+  fullname: kr3v
   googleplus: https://www.google.com/+MotaquillahMaddane
-  github: r3vk1m
+  github: krekrek.github.io
   twitter: electrik_frog
   # disqus: your_disqus_forum_shortname
 
