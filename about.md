@@ -11,7 +11,7 @@ permalink: /about/
   * School : 세명컴퓨터고등학교
   * Team : TeamSCA
   * Email：krekrek@naver.com
-  * Github : [r3vk1m] (https://github.com/r3vk1m)
+  * Github : [krekrek] (https://github.com/krekrek)
   
 * * *
 
