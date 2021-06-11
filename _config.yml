@@ -11,8 +11,8 @@ url: "http://krekrek.github.io" # the base hostname & protocol for your site
 author:
   fullname: kr3v
   googleplus: https://www.google.com/+MotaquillahMaddane
-  github: krekrek.github.io
-  twitter: electrik_frog
+  github: krekrek
+  # twitter: #
   # disqus: your_disqus_forum_shortname
 
 # google_analytics: 'UA-XXXXXXXX-X'
