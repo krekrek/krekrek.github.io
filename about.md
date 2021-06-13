@@ -9,7 +9,6 @@ permalink: /about/
   * Name : 김동욱
   * Nickname : kr3v
   * School : 세명컴퓨터고등학교
-  * Team : TeamSCA
   * Email：krekrek@naver.com
   * Github : [krekrek] (https://github.com/krekrek)
   
